@@ -1,0 +1,3 @@
+Today I started working on deployment of my inventory app which has taken me through learning aws deployment and begining to work with aws pipelines. Taylor recommened Route 53 and Circle CI. Looks like I have a ton of reading to do. 
+
+I spoke with Nate about his deployment and was informed that he had actually only containerized his project using Docker. I spent time exploring that option as well as finishing some reading my coach recommended on blue/green deployment.
