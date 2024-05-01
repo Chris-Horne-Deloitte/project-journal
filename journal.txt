@@ -1,3 +1,9 @@
+4/29/2014
+
 Today I started working on deployment of my inventory app which has taken me through learning aws deployment and begining to work with aws pipelines. Taylor recommened Route 53 and Circle CI. Looks like I have a ton of reading to do. 
 
 I spoke with Nate about his deployment and was informed that he had actually only containerized his project using Docker. I spent time exploring that option as well as finishing some reading my coach recommended on blue/green deployment.
+
+4/30/2024
+
+I got most of what I wanted to get done today. Still have some challenges though; I managed to get the instance for the node app created in AWS using Terraform. I think that this is huge progress considering the struggles I've had thus far. Tomorrow I hope to resolve the issues with connecting via SSH and hope to get the app deployed by Thursday (fingers crossed.)
